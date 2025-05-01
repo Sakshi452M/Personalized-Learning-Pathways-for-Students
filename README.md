@@ -17,3 +17,6 @@ To empower students with a personalized learning journey tailored to their uniqu
 - Enable educators to update or recommend new paths based on student performance.
 - Implement role-based access (admin, teacher, student).
 - Support decentralized identity (DID) integration for authentication.
+contract Id:-
+## CBUFFQ2TJTWKZQB7FIMYBRKU274RIFMFLP4RPPN2XVWCXT3EHTAQTSIO
+![alt text](<Screenshot 2025-04-25 144448.png>)
