@@ -1,21 +1,19 @@
-# Soroban Project
+# Personalized Learning Pathways for Students
 
-## Project Structure
+## 📘 Project Description
+This smart contract enables the creation and retrieval of personalized learning paths for students based on their interests. Built on Soroban (Stellar's smart contract platform), it stores and manages educational journey data efficiently and transparently.
 
-This repository uses the recommended structure for a Soroban project:
-```text
-.
-├── contracts
-│   └── hello_world
-│       ├── src
-│       │   ├── lib.rs
-│       │   └── test.rs
-│       └── Cargo.toml
-├── Cargo.toml
-└── README.md
-```
+## 🎯 Project Vision
+To empower students with a personalized learning journey tailored to their unique interests and strengths, using blockchain to ensure transparency and security in academic tracking.
 
-- New Soroban contracts can be put in `contracts`, each in their own directory. There is already a `hello_world` contract in there to get you started.
-- If you initialized this project with any other example contracts via `--with-example`, those contracts will be in the `contracts` directory as well.
-- Contracts should have their own `Cargo.toml` files that rely on the top-level `Cargo.toml` workspace for their dependencies.
-- Frontend libraries can be added to the top-level directory as well. If you initialized this project with a frontend template via `--frontend-template` you will have those files already included.
+## 🌟 Key Features
+- **Student Registration**: Register new students with their interests and a custom learning path.
+- **Path Retrieval**: Retrieve the assigned pathway for any student using their ID.
+- **Immutable Records**: Paths are stored on-chain, ensuring data integrity.
+- **Decentralized Storage**: Educational pathways are stored securely and transparently using Soroban's decentralized ledger.
+
+## 🔮 Future Scope
+- Add student performance tracking and progress analytics.
+- Enable educators to update or recommend new paths based on student performance.
+- Implement role-based access (admin, teacher, student).
+- Support decentralized identity (DID) integration for authentication.
